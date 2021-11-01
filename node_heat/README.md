@@ -1,4 +1,4 @@
-### Stage 1 - NODE JS
+### Stage 1 - NODE.JS
 
 In this class we will create the application backend using NodeJS. In this project we will use Typescript, which helps to increase productivity in development; we are going to use Prisma ORM, to work with database and Socket.IO to work with real-time communication.
 
@@ -28,4 +28,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 
 ---
 
-<small>Made with ♥ by Susana and Rocketseat 👋🏻 &nbsp;[Join our community!](https://discordapp.com/invite/gCRAFhc)</small>
+<p align="center"><sub>made with 💜 by sestevao</sub></p>
