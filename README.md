@@ -88,10 +88,10 @@ Inside the folder (frontend) and inside the folder (src) and inside (contexts) i
 
 ```
 # Access the project folder in the terminal
-$cd frontend
+$ cd frontend
 
 # Install dependencies
-$npm install or yarn
+$ npm install or yarn
 
 # Run the application
 $ yarn dev
