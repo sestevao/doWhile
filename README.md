@@ -1,6 +1,6 @@
 <h1 align="center">🚀 NLW7-Heat-Impulse 🚀</h1>
 
-## 📋 About the project
+## 💻 About the project
 
 Project developed during NLW (Next Level Week) on the Impulse track, where this week an application was built from scratch backend, frontend and mobile, an intense week full of content, but it was a great learning experience, as I learned a lot about how to integrate all areas that were still having a bit of difficulty at this point, an incredible experience, very cool, each day one more day of learning, looking forward to the next. 🚀🚀🚀
 
@@ -16,7 +16,7 @@ Project developed during NLW (Next Level Week) on the Impulse track, where this 
   <img src="./.github/mobileDowhile.gif" alt="mobileDowhile" />
 </p>
 
-## 💻 Technologies
+## 🧪 Technologies
 
 The following tools were used in the construction of the project:
 
@@ -49,15 +49,21 @@ The following tools were used in the construction of the project:
   - [Moti](https://moti.fyi/)
   - [socket.io Client](https://socket.io/docs/v4/client-initialization/)
 
-## 🎲 Running this application
+## ✅ Getting started
 
-Before you begin, you will need to have the following tools installed on your machine: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/), yarn is optional [Yarn](https://yarnpkg.com/) and [Expo](https://expo.dev/). Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
+Before you begin, you will need to have the following tools installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en/)
+- yarn is optional [Yarn](https://yarnpkg.com/)
+- [Expo](https://expo.dev/).
+- Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
 > Note: to create the keys on github go to the link - https://github.com/settings/developers
 
-### 🎲 Running the Back End (server)
+#### 🔒 Running the back end (server)
 
-#### Clone this repository
+Clone this repository
 
 To work both web and mobile it is necessary to leave the backend running.
 
@@ -80,7 +86,7 @@ $ yarn dev
 
 The app will be running on port 4000.
 
-### 🧭 Running the web application (Front End)
+#### 🌐 Running the web application (front end)
 
 Clone this repository
 
