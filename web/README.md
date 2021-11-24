@@ -27,6 +27,4 @@ This project was developed with the following technologies:
 
 You can now access `localhost:3000` from your browser.
 
----
-
 <p align="center"><sub>made with 💜 by sestevao</sub></p>
