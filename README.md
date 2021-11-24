@@ -1,4 +1,7 @@
-<h1 align="center">🚀 NLW7-Heat-Impulse 🚀</h1>
+<div align="center">
+  <img src=".github/logo.svg" alt="logo">
+</div>
+
 
 ## 💻 About the project
 
