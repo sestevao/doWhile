@@ -4,10 +4,10 @@ import * as AuthSessions from 'expo-auth-session';
 
 import { api } from '../services/api';
 
-const CLIENT_ID = 'aea42fc7b540f9e7e886'
-const SCOPE = 'read:user'
-const USER_STORAGE = '@mobile:user'
-const TOKEN_STORAGE = '@mobile:token'
+const CLIENT_ID = '';
+const SCOPE = 'read:user';
+const USER_STORAGE = '@mobile:user';
+const TOKEN_STORAGE = '@mobile:token';
 
 type User = {
   id: string,
