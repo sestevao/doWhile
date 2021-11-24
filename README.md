@@ -13,7 +13,7 @@ Project developed during NLW (Next Level Week) on the Impulse track, where this 
 ### Mobile:
 
 <p align="center">
-  <img src=".github/mobileCapa.png" alt="mobileDowhile" />
+  <img src=".github/MobileCapa.png" alt="mobileDowhile" />
 </p>
 
 ## 🧪 Technologies
